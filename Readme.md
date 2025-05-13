@@ -3,7 +3,7 @@ Este repositório contém a resolução dos 15 exercícios referentes à Lista d
 
 ## 📁 Estrutura do Projeto
 
-📦 Lista-Exercicios1-maisPrati
+📦 Lista-Exercicios1--Prati
 ├── 📄 ex_01.js
 ├── 📄 ex_02.js
 ├── 📄 ex_03.js
@@ -29,6 +29,7 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 
 - [Node.js](https://nodejs.org/) (versão 12 ou superior)
 - npm (gerenciador de pacotes do Node.js)
+- biblioteca prompt-sync
 
 ---
 
@@ -39,8 +40,8 @@ Siga os passos abaixo para clonar e configurar o projeto localmente:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/RodrigoBurgarelli/Lista-Exercicios1-maisPrati.git
-cd Lista-Exercicios1-maisPrati
+git clone https://github.com/RodrigoBurgarelli/Lista-Exercicios1--Prati.git
+cd Lista-Exercicios1--Prati
 2. Instale as dependências
 bash
 Copiar
